@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a data scientist trained as a health economist. Beginning with my PhD, I have been
+I am a data scientist trained as a health economist. For the last few years, I have been
 working to address persistent challenges in the development of model-based economic 
 evaluations of health technologies. Every model should be fast, error free, and inexpensive
 to maintain. I maintain a (private) R package to facilitate this outcome, which encourages
