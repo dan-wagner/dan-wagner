@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a data scientist trained as a health economist. Over the last 10 years, I have been working 
-to address persistent challenges in the development of model-based economic evaluations of 
-health technologies. My goal is to ensure every model is fast, error free, and inexpensive to 
-create or maintain. Currently, this is facilitated by a (private) R package which I maintian to
-standardize common model development/specification and analysis tasks. 
+I am a data scientist trained as a health economist. Beginning with my PhD, I have been
+working to address persistent challenges in the development of model-based economic 
+evaluations of health technologies. Every model should be fast, error free, and inexpensive
+to maintain. I maintain a (private) R package to facilitate this outcome, which encourages
+the standardization of common model development/specification and analysis tasks. 
 
 As an R developer, I have experience with: 
 - Package Development
